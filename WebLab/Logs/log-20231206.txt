@@ -1,0 +1,6 @@
+2023-12-06T09:43:19.0219697+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-12-06T09:43:19.0299697+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-12-06T09:43:19.0299697+03:00  [INF] Content root path: "D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab" (b5d60022)
+2023-12-06T09:43:21.9389697+03:00  [INF] info: group=, page=1 (85a87afb)
+2023-12-06T09:43:28.6769697+03:00  [INF] User logged in. (fdce0db4)
+2023-12-06T09:43:28.6779697+03:00  [INF] Request /Identity/Account/Login returns status code 302 (58250cbb)

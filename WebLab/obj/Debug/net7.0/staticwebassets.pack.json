@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\anonymous.jpg",
+      "PackagePath": "staticwebassets\\Images\\anonymous.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Images\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish1.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish1.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish10.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish10.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish11.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish11.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish12.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish12.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish13.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish13.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish14.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish14.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish2.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish2.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish3.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish3.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish4.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish4.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish5.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish5.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish6.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish6.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish7.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish7.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish8.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish8.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\Images\\dish9.jpg",
+      "PackagePath": "staticwebassets\\Images\\dish9.jpg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\bs-custom-file-input.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\bs-custom-file-input.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\bs-custom-file-input.js.map",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\bs-custom-file-input.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\bs-custom-file-input.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\bs-custom-file-input.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\bs-custom-file-input.min.js.map",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\bs-custom-file-input.min.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bs-custom-file-input\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\bs-custom-file-input\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bs-custom-file-input\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bs-custom-file-input"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bs-custom-file-input\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bs-custom-file-input\\README.md"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bs-custom-file-input\\bs-custom-file-input.d.ts",
+      "PackagePath": "staticwebassets\\lib\\bs-custom-file-input\\bs-custom-file-input.d.ts"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\bs-custom-file-input\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bs-custom-file-input\\package.json"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Учеба\\ВТ\\ЛБ9\\WebLab\\WebLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebLab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebLab.props",
+      "PackagePath": "build\\WebLab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebLab.props",
+      "PackagePath": "buildMultiTargeting\\WebLab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebLab.props",
+      "PackagePath": "buildTransitive\\WebLab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

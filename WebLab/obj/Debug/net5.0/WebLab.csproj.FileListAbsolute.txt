@@ -1,0 +1,723 @@
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\appsettings.Development.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\appsettings.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\libman.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.StaticWebAssets.xml
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.deps.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.dev.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ref\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.Views.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\WebLab.Views.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Humanizer.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.csproj.AssemblyReference.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfoInputs.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.csproj.CoreCompileInputs.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Manifest.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.xml
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\scopedcss\bundle\WebLab.styles.css
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.input.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.output.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.RazorCoreGenerate.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.Views.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.csproj.CopyComplete
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\ref\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\WebLab.genruntimeconfig.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol_v1\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\appsettings.Development.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\libman.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.StaticWebAssets.xml
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\appsettings.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.deps.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.dev.json
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.Views.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.Views.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Humanizer.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.AssemblyReference.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfoInputs.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.CoreCompileInputs.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Manifest.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.xml
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\scopedcss\bundle\WebLab.styles.css
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.input.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.output.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorCoreGenerate.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.Views.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.CopyComplete
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\ref\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.pdb
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.genruntimeconfig.cache
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListPartial.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\ref\WebLab.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Angelina\my doc\10333_WEB\Lab\WebLabSol\WebLab\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\appsettings.Development.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\appsettings.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\libman.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.StaticWebAssets.xml
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.exe
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.deps.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.dev.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.Views.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\WebLab.Views.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Humanizer.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.AssemblyReference.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfoInputs.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.CoreCompileInputs.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.sourcelink.json
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.input.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.output.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorCoreGenerate.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.Views.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\scopedcss\bundle\WebLab.styles.css
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Manifest.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Pack.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.WebLab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.build.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.xml
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.csproj.CopyComplete
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\refint\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.pdb
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\WebLab.genruntimeconfig.cache
+D:\Учеба\ВТ\ЛБ8\Angelina\WebLabSol\WebLab\obj\Debug\net5.0\ref\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\appsettings.Development.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\appsettings.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\libman.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.StaticWebAssets.xml
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.exe
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.deps.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.runtimeconfig.dev.json
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.Views.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\WebLab.Views.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Humanizer.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.csproj.AssemblyReference.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfoInputs.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.AssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.csproj.CoreCompileInputs.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.RazorAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.input.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.TagHelpers.output.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.RazorCoreGenerate.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Product\_ListPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.RazorTargetAssemblyInfo.cs
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.Views.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\scopedcss\bundle\WebLab.styles.css
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Manifest.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.Pack.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.WebLab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.build.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebLab.props
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\staticwebassets\WebLab.StaticWebAssets.xml
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.csproj.CopyComplete
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\refint\WebLab.dll
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.pdb
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\WebLab.genruntimeconfig.cache
+D:\Учеба\ВТ\ЛБ8\Result\WebLab\obj\Debug\net5.0\ref\WebLab.dll

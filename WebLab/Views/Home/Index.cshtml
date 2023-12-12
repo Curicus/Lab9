@@ -1,0 +1,54 @@
+﻿<h1>Лабораторная работа 8</h1>
+<h2>@ViewData["Text"]</h2>
+<h2>Список</h2>
+<ol type="A">
+    @for (int i = 1; i < 5; i++)
+    {
+        <li>элемент @i списка</li>
+    }
+</ol>
+<hr />
+<h2>Форма</h2>
+<form action="htmlpage.html" method="post">
+    <div class="col-md-3 offset-md-2">
+        <input type="checkbox" name="checkbox1" id="checkbox1">
+        <label for="checkbox1">Чекбокс 1</label><br>
+
+        <input type="checkbox" name="checkbox2" id="checkbox2">
+        <label for="checkbox2">Чекбокс 2</label><br>
+    </div>
+    <fieldset>
+        <div class="col-md-8 offset-md-2 pl-4 ">
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1">
+            <label class="form-check-label mr-4" for="gridRadios1">
+                Радио - 1
+            </label>
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
+            <label class="form-check-label mr-4" for="gridRadios2">
+                Радио - 2
+            </label>
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3">
+            <label class="form-check-label mr-4" for="gridRadios3">
+                Радио - 3
+            </label>
+        </div>
+    </fieldset>
+    <br />
+    <select asp-items="@ViewData["Lst"] as SelectList"></select>
+    <br />
+        <div class="mb-3 row">
+        <label for="inputLogin" class="col-sm-2 col-form-label">Логин:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="inputLogin" name="login" placeholder="Введите логин">
+        </div>
+    </div>
+    <div class="mb-3 row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Пароль:</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" name="password" id="inputPassword" placeholder="Введите пароль">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>
+<br />
+

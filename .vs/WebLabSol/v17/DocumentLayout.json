@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\pages\\apidemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\pages\\apidemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\components\\dishdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\components\\dishdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\weblabblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\weblabblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\weblab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\weblab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\data\\apiviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\data\\apiviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblabblazor\\components\\disheslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09ABE8C4-F49A-439C-99C6-3E98B285BF13}|WebLabBlazor\\WebLabBlazor.csproj|solutionrelative:weblabblazor\\components\\disheslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\weblab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\weblab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\shared\\_userpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\shared\\_userpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\extensions\\requestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\extensions\\requestextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0432\u0442\\\u043B\u04319\\weblab\\weblab\\services\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3285441F-7742-41A8-B1D5-FEB708A77D25}|WebLab\\WebLab.csproj|solutionrelative:weblab\\services\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "WebLab\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "WebLab\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:27:20.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebLabBlazor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\WebLabBlazor.csproj",
+              "RelativeDocumentMoniker": "WebLabBlazor\\WebLabBlazor.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\WebLabBlazor.csproj",
+              "RelativeToolTip": "WebLabBlazor\\WebLabBlazor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-12T12:26:33.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\_Imports.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\_Imports.razor",
+              "RelativeToolTip": "WebLabBlazor\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T12:25:40.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishDetails.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Components\\DishDetails.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Components\\DishDetails.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Components\\DishDetails.razor",
+              "RelativeToolTip": "WebLabBlazor\\Components\\DishDetails.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T12:56:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiDemo.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Pages\\ApiDemo.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Pages\\ApiDemo.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Pages\\ApiDemo.razor",
+              "RelativeToolTip": "WebLabBlazor\\Pages\\ApiDemo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T12:50:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Pages\\Counter.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Pages\\Counter.razor",
+              "RelativeToolTip": "WebLabBlazor\\Pages\\Counter.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T10:49:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DishesList.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Components\\DishesList.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Components\\DishesList.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Components\\DishesList.razor",
+              "RelativeToolTip": "WebLabBlazor\\Components\\DishesList.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T12:58:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebLab.csproj",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\WebLab.csproj",
+              "RelativeDocumentMoniker": "WebLab\\WebLab.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\WebLab.csproj",
+              "RelativeToolTip": "WebLab\\WebLab.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-11T08:38:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiViewModels.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Data\\ApiViewModels.cs",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Data\\ApiViewModels.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Data\\ApiViewModels.cs",
+              "RelativeToolTip": "WebLabBlazor\\Data\\ApiViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T12:47:56.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WebLabBlazor\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLabBlazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "WebLabBlazor\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T12:51:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "WebLab\\Controllers\\DishesController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "WebLab\\Controllers\\DishesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T08:40:50.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebLab",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\WebLab.csproj",
+              "RelativeDocumentMoniker": "WebLab\\WebLab.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\WebLab.csproj",
+              "RelativeToolTip": "WebLab\\WebLab.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-08T08:17:28.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebLab\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T13:34:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T13:35:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequestExtensions.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Extensions\\RequestExtensions.cs",
+              "RelativeDocumentMoniker": "WebLab\\Extensions\\RequestExtensions.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Extensions\\RequestExtensions.cs",
+              "RelativeToolTip": "WebLab\\Extensions\\RequestExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T12:59:29.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:48:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:48:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_UserPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_UserPartial.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\Shared\\_UserPartial.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_UserPartial.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\Shared\\_UserPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:49:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:49:07.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:49:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebLab\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebLab\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T12:49:04.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebLab\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebLab\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:00:12.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebLab\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebLab\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:00:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:01:50.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebLab\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebLab\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:15:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Services\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebLab\\Services\\DbInitializer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0412\u0422\\\u041B\u04119\\WebLab\\WebLab\\Services\\DbInitializer.cs",
+              "RelativeToolTip": "WebLab\\Services\\DbInitializer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T12:52:19.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
